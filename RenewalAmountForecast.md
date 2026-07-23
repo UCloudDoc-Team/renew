@@ -16,11 +16,14 @@
 - **总金额**：未来7天/30天内所有待续费资源的预测总金额。
 - **资源数量**：未来7天/30天内即将到期的未删除资源总数。
 - **更新频率**：数据每日10:00更新。
-<img width="1152" height="622" alt="image" src="https://github.com/user-attachments/assets/618ae22c-c5d9-4672-847b-b1b37127abd6" />
+
+![](https://cdnv2-cache.udelivrs.com/2026/07/5a1aa286936795af55a1562f7094252a_1784799189477.png)
+
 
 点击模块右侧的查看按钮，系统将跳转至续费管理页面。为您直接呈现待续费资源清单，方便您进行后续批量续费操作。
- 
-<img width="1152" height="622" alt="image" src="https://github.com/user-attachments/assets/32ce8af3-0e78-4b7d-99dd-f447e8e41022" />
+
+
+ ![](https://cdnv2-cache.udelivrs.com/2026/07/5133ecd42e81101a0d184a8e566c72b8_1784799189489.png)
 
 ## 预测金额计算逻辑
 
