@@ -16,12 +16,11 @@
 - **总金额**：未来7天/30天内所有待续费资源的预测总金额。
 - **资源数量**：未来7天/30天内即将到期的未删除资源总数。
 - **更新频率**：数据每日10:00更新。
-
-  <img width="1440" height="778" alt="image" src="https://github.com/user-attachments/assets/618ae22c-c5d9-4672-847b-b1b37127abd6" />
+<img width="1152" height="622" alt="image" src="https://github.com/user-attachments/assets/618ae22c-c5d9-4672-847b-b1b37127abd6" />
 
 点击模块右侧的查看按钮，系统将跳转至续费管理页面。为您直接呈现待续费资源清单，方便您进行后续批量续费操作。
  
-  <img width="1152" height="622" alt="image" src="https://github.com/user-attachments/assets/32ce8af3-0e78-4b7d-99dd-f447e8e41022" />
+<img width="1152" height="622" alt="image" src="https://github.com/user-attachments/assets/32ce8af3-0e78-4b7d-99dd-f447e8e41022" />
 
 ## 预测金额计算逻辑
 
